@@ -1,0 +1,24 @@
+- Complex UI
+https://www.youtube.com/watch?v=FCyoHclCqc8&t=168s
+- Barcode Scan
+https://pub.dev/packages/flutter_barcode_scanner/example
+- QR Code generator
+https://www.qrcode.es/es/generador-qr-code/
+- Color Hunt Palette
+https://colorhunt.co/palette/201882
+- Flutter using Themes
+https://flutter.dev/docs/cookbook/design/themes
+- JSON Parser Models
+https://app.quicktype.io/
+- Visualizar la DB creada con SQFLite
+https://sqlitebrowser.org/dl/
+- SQFLite
+https://pub.dev/packages/sqflite/install
+- Path Provider
+https://pub.dev/packages/path_provider/install
+- Url_launcher
+https://pub.dev/packages/url_launcher/install
+- Google Maps
+https://pub.dev/packages/google_maps_flutter
+AIzaSyBNh2_Bq-Inbk0lhB3-abLuC_JkaXUoUusA
+AIzaSyDbJwz_zlppxFRJzZ27QQQBQr4_JA7TaZkI
